@@ -5,8 +5,7 @@ This project developed a highly accurate sentiment analysis tool to classify cus
 2. The Goal
 The primary objective was to build a machine learning model that automates the process of understanding customer sentiment from unstructured text data. The final output is a user-friendly tool that a business can use to instantly analyze customer feedback.
 
-3. Methodology
-4. 
+3. Methodology 
 The solution uses a Recurrent Neural Network (RNN), specifically an LSTM (Long Short-Term Memory) model. This deep learning approach is highly effective for sequential data like text. The key steps were:
 
 Data Preprocessing: Tokenizing and padding text reviews to a uniform length.
