@@ -60,4 +60,3 @@ tokenizer.pkl: The saved tokenizer object.
 
 history.json: The training history of the model.
 
-predict_cli.py: The command-line tool for sentiment prediction.
